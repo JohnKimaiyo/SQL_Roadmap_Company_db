@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,registration_date,city,state,phone,customer_tier,total_spent
+1,Customer_1,LastName_2,customer_1.lastname_21@company.com,2022-03-07,Houston,TX,(482)-828-3344,Bronze,0
+2,Alex,LastName_3,alex.lastname_32@company.com,2020-09-09,Houston,TX,(535)-464-8906,Silver,0
+3,Taylor,LastName_4,taylor.lastname_43@company.com,2020-11-17,San Jose,CA,(404)-943-4083,Gold,0
+4,Customer_4,LastName_5,customer_4.lastname_54@gmail.com,2022-01-23,Houston,TX,(716)-389-5066,Regular,0
+5,Alex,LastName_6,alex.lastname_65@outlook.com,2020-09-24,Houston,TX,,Gold,0
+6,Customer_6,LastName_7,customer_6.lastname_76@company.com,2020-03-21,Philadelphia,PA,(351)-557-7259,Silver,0
+7,Taylor,LastName_8,taylor.lastname_87@gmail.com,2022-08-17,Phoenix,AZ,(402)-823-8427,Bronze,0
+8,Customer_8,LastName_9,customer_8.lastname_98@yahoo.com,2020-11-26,New York,NY,,Bronze,0
+9,Taylor,LastName_10,taylor.lastname_109@yahoo.com,2020-11-18,San Antonio,TX,(843)-544-6306,Regular,0
+10,Customer_10,LastName_11,customer_10.lastname_110@gmail.com,2021-10-21,Phoenix,AZ,(974)-682-1645,Gold,0
+11,Jamie,LastName_12,jamie.lastname_121@yahoo.com,2021-05-23,Los Angeles,CA,(343)-255-2675,Silver,0
+12,Jordan,LastName_13,jordan.lastname_132@gmail.com,2022-02-11,Philadelphia,PA,(546)-183-7760,Bronze,0
+13,Morgan,LastName_14,morgan.lastname_143@company.com,2021-07-12,New York,NY,(857)-908-7487,Silver,0
+14,Alex,LastName_15,alex.lastname_154@yahoo.com,2021-04-04,Chicago,IL,,Bronze,0
+15,Customer_15,LastName_16,customer_15.lastname_165@gmail.com,2021-10-22,Dallas,TX,,Silver,0
+16,Alex,LastName_17,alex.lastname_176@yahoo.com,2022-02-15,Houston,TX,(340)-612-6234,Bronze,0
+17,Jamie,LastName_18,jamie.lastname_187@company.com,2020-01-20,Dallas,TX,(704)-124-7798,Gold,0
+18,Customer_18,LastName_19,customer_18.lastname_198@gmail.com,2020-08-01,Houston,TX,(207)-457-2320,Bronze,0
+19,Jordan,LastName_20,jordan.lastname_209@company.com,2020-08-05,Chicago,IL,(842)-862-5610,Bronze,0
+20,Casey,LastName_21,casey.lastname_210@company.com,2020-06-12,Houston,TX,(462)-442-4207,Bronze,0
+21,Morgan,LastName_22,morgan.lastname_221@gmail.com,2021-10-28,Phoenix,AZ,(656)-717-9385,Regular,0
+22,Customer_22,LastName_23,customer_22.lastname_232@gmail.com,2020-02-12,San Antonio,TX,(960)-995-4368,Silver,0
+23,Jamie,LastName_24,jamie.lastname_243@outlook.com,2022-05-02,Houston,TX,(510)-469-8598,Gold,0
+24,Jordan,LastName_25,jordan.lastname_254@outlook.com,2020-08-10,Dallas,TX,,Gold,0
+25,Customer_25,LastName_26,customer_25.lastname_265@yahoo.com,2022-05-31,Philadelphia,PA,(937)-497-6363,Regular,0
+26,Casey,LastName_27,casey.lastname_276@yahoo.com,2022-07-31,San Diego,CA,(811)-392-5071,Gold,0
+27,Alex,LastName_28,alex.lastname_287@gmail.com,2021-09-26,New York,NY,(480)-100-5971,Regular,0
+28,Casey,LastName_29,casey.lastname_298@yahoo.com,2020-04-09,New York,NY,(861)-295-7933,Bronze,0
+29,Customer_29,LastName_30,customer_29.lastname_309@company.com,2021-10-31,New York,NY,(235)-222-5948,Silver,0
+30,Customer_30,LastName_31,customer_30.lastname_310@yahoo.com,2020-05-03,New York,NY,(687)-278-1235,Gold,0
+31,Customer_31,LastName_32,customer_31.lastname_321@yahoo.com,2021-04-11,San Jose,CA,(479)-376-1369,Regular,0
+32,Customer_32,LastName_33,customer_32.lastname_332@yahoo.com,2020-08-08,Los Angeles,CA,(586)-130-1608,Regular,0
+33,Morgan,LastName_34,morgan.lastname_343@company.com,2020-06-28,New York,NY,(245)-772-2032,Bronze,0
+34,Jamie,LastName_35,jamie.lastname_354@company.com,2020-07-26,Phoenix,AZ,,Bronze,0
+35,Jordan,LastName_36,jordan.lastname_365@yahoo.com,2021-12-07,San Diego,CA,(865)-145-8132,Regular,0
+36,Jamie,LastName_37,jamie.lastname_376@gmail.com,2020-10-20,Philadelphia,PA,,Bronze,0
+37,Morgan,LastName_38,morgan.lastname_387@yahoo.com,2021-01-17,Philadelphia,PA,(753)-249-6254,Bronze,0
+38,Casey,LastName_39,casey.lastname_398@company.com,2021-01-16,San Diego,CA,(985)-399-3418,Regular,0
+39,Morgan,LastName_40,morgan.lastname_409@outlook.com,2022-09-11,San Antonio,TX,,Bronze,0
+40,Taylor,LastName_41,taylor.lastname_410@outlook.com,2021-10-22,San Diego,CA,(752)-982-3691,Gold,0
+41,Jamie,LastName_42,jamie.lastname_421@yahoo.com,2021-09-05,Philadelphia,PA,(962)-263-3285,Silver,0
+42,Morgan,LastName_43,morgan.lastname_432@gmail.com,2022-04-23,San Antonio,TX,(713)-657-1687,Gold,0
+43,Taylor,LastName_44,taylor.lastname_443@yahoo.com,2022-01-27,Houston,TX,(542)-600-2915,Bronze,0
+44,Taylor,LastName_45,taylor.lastname_454@company.com,2021-06-19,San Antonio,TX,(559)-867-7684,Gold,0
+45,Customer_45,LastName_46,customer_45.lastname_465@company.com,2020-06-08,Houston,TX,(716)-919-2766,Regular,0
+46,Customer_46,LastName_47,customer_46.lastname_476@gmail.com,2021-12-12,Phoenix,AZ,(615)-410-4428,Gold,0
+47,Jordan,LastName_48,jordan.lastname_487@gmail.com,2020-01-17,New York,NY,(412)-290-2168,Gold,0
+48,Customer_48,LastName_49,customer_48.lastname_498@gmail.com,2021-03-08,Philadelphia,PA,(210)-814-5918,Bronze,0
+49,Jordan,LastName_50,jordan.lastname_509@outlook.com,2021-03-14,San Jose,CA,(689)-750-1686,Regular,0
+50,Morgan,LastName_1,morgan.lastname_10@outlook.com,2020-12-25,New York,NY,(684)-981-7287,Gold,0
+51,Casey,LastName_2,casey.lastname_21@outlook.com,2022-08-29,San Diego,CA,(589)-139-8986,Gold,0
+52,Casey,LastName_3,casey.lastname_32@gmail.com,2020-03-25,Houston,TX,(932)-746-2540,Regular,0
+53,Taylor,LastName_4,taylor.lastname_43@yahoo.com,2021-09-10,San Diego,CA,,Bronze,0
+54,Jamie,LastName_5,jamie.lastname_54@company.com,2020-08-09,San Jose,CA,(210)-800-3103,Gold,0
+55,Morgan,LastName_6,morgan.lastname_65@gmail.com,2021-05-29,Chicago,IL,(913)-678-7359,Gold,0
+56,Customer_56,LastName_7,customer_56.lastname_76@gmail.com,2021-12-15,Dallas,TX,(662)-400-3666,Gold,0
+57,Customer_57,LastName_8,customer_57.lastname_87@outlook.com,2021-03-12,Los Angeles,CA,(278)-303-8899,Regular,0
+58,Customer_58,LastName_9,customer_58.lastname_98@company.com,2022-03-05,Chicago,IL,(244)-409-3992,Silver,0
+59,Jamie,LastName_10,jamie.lastname_109@company.com,2020-08-22,San Diego,CA,(318)-203-3694,Silver,0
+60,Customer_60,LastName_11,customer_60.lastname_110@gmail.com,2021-03-24,San Diego,CA,(915)-540-1336,Bronze,0
+61,Alex,LastName_12,alex.lastname_121@company.com,2021-04-30,New York,NY,(770)-818-7918,Gold,0
+62,Customer_62,LastName_13,customer_62.lastname_132@outlook.com,2022-06-17,Philadelphia,PA,(719)-349-3253,Gold,0
+63,Customer_63,LastName_14,customer_63.lastname_143@gmail.com,2021-08-07,Chicago,IL,(656)-775-9944,Bronze,0
+64,Morgan,LastName_15,morgan.lastname_154@gmail.com,2022-09-21,Chicago,IL,(318)-673-1651,Silver,0
+65,Customer_65,LastName_16,customer_65.lastname_165@outlook.com,2020-05-16,San Antonio,TX,,Gold,0
+66,Alex,LastName_17,alex.lastname_176@gmail.com,2021-06-21,Phoenix,AZ,(209)-410-3245,Bronze,0
+67,Morgan,LastName_18,morgan.lastname_187@yahoo.com,2020-07-12,San Diego,CA,(419)-201-3824,Regular,0
+68,Jamie,LastName_19,jamie.lastname_198@gmail.com,2020-05-29,Chicago,IL,(348)-981-2114,Regular,0
+69,Alex,LastName_20,alex.lastname_209@yahoo.com,2020-09-09,San Antonio,TX,(570)-330-5300,Regular,0
+70,Customer_70,LastName_21,customer_70.lastname_210@company.com,2020-02-13,Philadelphia,PA,(228)-297-7122,Regular,0
+71,Jordan,LastName_22,jordan.lastname_221@yahoo.com,2021-05-05,San Jose,CA,(721)-516-3576,Silver,0
+72,Taylor,LastName_23,taylor.lastname_232@company.com,2022-03-02,Los Angeles,CA,(231)-527-2086,Gold,0
+73,Jordan,LastName_24,jordan.lastname_243@gmail.com,2021-01-13,Phoenix,AZ,(675)-765-6594,Bronze,0
+74,Casey,LastName_25,casey.lastname_254@outlook.com,2022-07-30,Phoenix,AZ,(681)-623-8991,Regular,0
+75,Jamie,LastName_26,jamie.lastname_265@yahoo.com,2021-04-25,Philadelphia,PA,,Regular,0
+76,Casey,LastName_27,casey.lastname_276@gmail.com,2020-09-14,Phoenix,AZ,(495)-708-9413,Silver,0
+77,Taylor,LastName_28,taylor.lastname_287@yahoo.com,2021-08-02,Houston,TX,(513)-296-6488,Regular,0
+78,Customer_78,LastName_29,customer_78.lastname_298@company.com,2021-11-16,Houston,TX,(342)-921-5833,Silver,0
+79,Taylor,LastName_30,taylor.lastname_309@outlook.com,2020-07-28,San Diego,CA,(377)-220-5775,Silver,0
+80,Customer_80,LastName_31,customer_80.lastname_310@outlook.com,2020-07-06,San Diego,CA,(601)-595-5435,Regular,0
+81,Jordan,LastName_32,jordan.lastname_321@outlook.com,2021-09-12,Los Angeles,CA,(585)-932-7440,Gold,0
+82,Customer_82,LastName_33,customer_82.lastname_332@outlook.com,2022-08-08,San Diego,CA,(763)-697-5539,Regular,0
+83,Customer_83,LastName_34,customer_83.lastname_343@gmail.com,2021-03-13,San Diego,CA,(687)-547-7338,Bronze,0
+84,Customer_84,LastName_35,customer_84.lastname_354@yahoo.com,2020-05-05,Philadelphia,PA,(255)-142-2151,Bronze,0
+85,Customer_85,LastName_36,customer_85.lastname_365@outlook.com,2020-05-10,Los Angeles,CA,(903)-533-4356,Gold,0
+86,Casey,LastName_37,casey.lastname_376@gmail.com,2020-01-11,Los Angeles,CA,(839)-836-5541,Bronze,0
+87,Jordan,LastName_38,jordan.lastname_387@yahoo.com,2021-09-25,San Jose,CA,(473)-665-6792,Silver,0
+88,Customer_88,LastName_39,customer_88.lastname_398@outlook.com,2022-02-19,Houston,TX,(592)-308-9875,Gold,0
+89,Alex,LastName_40,alex.lastname_409@outlook.com,2022-04-08,San Diego,CA,,Silver,0
+90,Jordan,LastName_41,jordan.lastname_410@yahoo.com,2021-04-15,San Jose,CA,(377)-325-5578,Gold,0
+91,Customer_91,LastName_42,customer_91.lastname_421@outlook.com,2021-03-21,San Jose,CA,(595)-556-4496,Silver,0
+92,Customer_92,LastName_43,customer_92.lastname_432@gmail.com,2021-02-22,San Diego,CA,(956)-493-7228,Gold,0
+93,Taylor,LastName_44,taylor.lastname_443@yahoo.com,2022-06-21,San Diego,CA,(736)-450-6276,Gold,0
+94,Casey,LastName_45,casey.lastname_454@company.com,2022-05-08,San Diego,CA,(581)-247-2267,Regular,0
+95,Customer_95,LastName_46,customer_95.lastname_465@company.com,2020-07-31,Houston,TX,(614)-380-5075,Bronze,0
+96,Morgan,LastName_47,morgan.lastname_476@company.com,2022-09-10,New York,NY,(776)-349-2059,Regular,0
+97,Alex,LastName_48,alex.lastname_487@company.com,2021-08-08,Philadelphia,PA,(220)-602-8148,Regular,0
+98,Alex,LastName_49,alex.lastname_498@company.com,2020-09-18,Philadelphia,PA,(575)-366-8840,Silver,0
+99,Customer_99,LastName_50,customer_99.lastname_509@yahoo.com,2022-05-16,New York,NY,(573)-149-4745,Gold,0
+100,Jordan,LastName_1,jordan.lastname_10@gmail.com,2021-09-22,Dallas,TX,,Gold,0
+101,Taylor,LastName_2,taylor.lastname_21@company.com,2020-06-01,Phoenix,AZ,,Regular,0
+102,Customer_102,LastName_3,customer_102.lastname_32@yahoo.com,2020-08-22,San Antonio,TX,(733)-168-4798,Gold,0
+103,Casey,LastName_4,casey.lastname_43@yahoo.com,2020-10-22,Dallas,TX,(633)-271-4870,Gold,0
+104,Jordan,LastName_5,jordan.lastname_54@gmail.com,2020-03-09,Los Angeles,CA,(383)-646-3033,Regular,0
+105,Taylor,LastName_6,taylor.lastname_65@yahoo.com,2020-06-05,Dallas,TX,(451)-905-1143,Bronze,0
+106,Taylor,LastName_7,taylor.lastname_76@gmail.com,2021-05-27,Dallas,TX,(603)-238-3736,Gold,0
+107,Jordan,LastName_8,jordan.lastname_87@yahoo.com,2022-06-01,San Jose,CA,(787)-901-5575,Regular,0
+108,Customer_108,LastName_9,customer_108.lastname_98@yahoo.com,2021-12-28,Los Angeles,CA,(365)-755-1692,Gold,0
+109,Jordan,LastName_10,jordan.lastname_109@gmail.com,2020-10-21,San Diego,CA,(701)-793-7471,Regular,0
+110,Morgan,LastName_11,morgan.lastname_110@outlook.com,2022-03-16,San Jose,CA,(967)-514-5119,Regular,0
+111,Customer_111,LastName_12,customer_111.lastname_121@company.com,2020-05-09,New York,NY,(814)-476-5889,Gold,0
+112,Morgan,LastName_13,morgan.lastname_132@company.com,2021-01-19,Phoenix,AZ,(522)-598-4255,Gold,0
+113,Customer_113,LastName_14,customer_113.lastname_143@yahoo.com,2021-04-05,San Jose,CA,(967)-243-5947,Regular,0
+114,Customer_114,LastName_15,customer_114.lastname_154@gmail.com,2022-07-11,Houston,TX,(458)-598-7541,Regular,0
+115,Taylor,LastName_16,taylor.lastname_165@yahoo.com,2021-04-19,Chicago,IL,(252)-351-3384,Gold,0
+116,Customer_116,LastName_17,customer_116.lastname_176@gmail.com,2020-12-24,San Diego,CA,(869)-993-8100,Gold,0
+117,Taylor,LastName_18,taylor.lastname_187@company.com,2020-02-11,San Diego,CA,,Bronze,0
+118,Customer_118,LastName_19,customer_118.lastname_198@yahoo.com,2020-01-12,Los Angeles,CA,,Bronze,0
+119,Customer_119,LastName_20,customer_119.lastname_209@yahoo.com,2021-10-07,Dallas,TX,(659)-513-6472,Regular,0
+120,Taylor,LastName_21,taylor.lastname_210@outlook.com,2021-01-11,New York,NY,(799)-226-8182,Regular,0
+121,Casey,LastName_22,casey.lastname_221@gmail.com,2021-11-13,Dallas,TX,(779)-618-2102,Silver,0
+122,Morgan,LastName_23,morgan.lastname_232@outlook.com,2021-11-07,San Diego,CA,(850)-373-3358,Silver,0
+123,Jordan,LastName_24,jordan.lastname_243@gmail.com,2021-09-23,San Antonio,TX,(425)-142-1721,Bronze,0
+124,Customer_124,LastName_25,customer_124.lastname_254@yahoo.com,2020-07-18,San Antonio,TX,(627)-918-3484,Regular,0
+125,Taylor,LastName_26,taylor.lastname_265@yahoo.com,2020-01-01,Los Angeles,CA,(238)-371-8907,Gold,0
+126,Customer_126,LastName_27,customer_126.lastname_276@yahoo.com,2022-08-05,San Diego,CA,,Regular,0
+127,Taylor,LastName_28,taylor.lastname_287@outlook.com,2022-05-21,San Diego,CA,(464)-690-9977,Bronze,0
+128,Taylor,LastName_29,taylor.lastname_298@yahoo.com,2021-11-14,San Jose,CA,(485)-925-5018,Silver,0
+129,Morgan,LastName_30,morgan.lastname_309@company.com,2020-10-05,Philadelphia,PA,(507)-610-7630,Gold,0
+130,Taylor,LastName_31,taylor.lastname_310@outlook.com,2020-04-19,Chicago,IL,(424)-354-8607,Silver,0
+131,Jamie,LastName_32,jamie.lastname_321@outlook.com,2021-02-26,San Antonio,TX,(539)-406-2329,Silver,0
+132,Customer_132,LastName_33,customer_132.lastname_332@company.com,2022-08-29,Los Angeles,CA,(258)-546-7650,Regular,0
+133,Customer_133,LastName_34,customer_133.lastname_343@company.com,2020-02-01,Philadelphia,PA,(321)-415-4861,Regular,0
+134,Morgan,LastName_35,morgan.lastname_354@company.com,2021-08-25,Houston,TX,(440)-393-4985,Silver,0
+135,Casey,LastName_36,casey.lastname_365@outlook.com,2021-08-30,San Antonio,TX,(303)-184-2348,Gold,0
+136,Customer_136,LastName_37,customer_136.lastname_376@company.com,2021-05-19,Los Angeles,CA,(914)-763-3488,Gold,0
+137,Customer_137,LastName_38,customer_137.lastname_387@yahoo.com,2020-02-03,Chicago,IL,(575)-795-6853,Gold,0
+138,Customer_138,LastName_39,customer_138.lastname_398@outlook.com,2020-12-04,Los Angeles,CA,,Gold,0
+139,Casey,LastName_40,casey.lastname_409@gmail.com,2022-04-21,Houston,TX,(600)-943-9034,Gold,0
+140,Customer_140,LastName_41,customer_140.lastname_410@outlook.com,2021-09-22,Dallas,TX,,Bronze,0
+141,Customer_141,LastName_42,customer_141.lastname_421@company.com,2021-09-12,Phoenix,AZ,(994)-816-9435,Gold,0
+142,Jordan,LastName_43,jordan.lastname_432@outlook.com,2020-02-02,San Antonio,TX,(880)-266-8744,Regular,0
+143,Casey,LastName_44,casey.lastname_443@outlook.com,2020-10-27,San Antonio,TX,(440)-913-6067,Bronze,0
+144,Customer_144,LastName_45,customer_144.lastname_454@company.com,2020-06-01,Chicago,IL,,Gold,0
+145,Alex,LastName_46,alex.lastname_465@yahoo.com,2020-04-20,San Diego,CA,,Gold,0
+146,Customer_146,LastName_47,customer_146.lastname_476@outlook.com,2021-12-05,Philadelphia,PA,(935)-593-8132,Regular,0
+147,Customer_147,LastName_48,customer_147.lastname_487@outlook.com,2022-08-17,Houston,TX,(871)-134-6967,Silver,0
+148,Taylor,LastName_49,taylor.lastname_498@gmail.com,2020-02-20,New York,NY,(458)-498-4056,Regular,0
+149,Morgan,LastName_50,morgan.lastname_509@outlook.com,2021-04-05,Chicago,IL,(963)-824-7919,Bronze,0
+150,Casey,LastName_1,casey.lastname_10@yahoo.com,2020-01-08,Chicago,IL,(625)-195-8977,Bronze,0
+151,Customer_151,LastName_2,customer_151.lastname_21@yahoo.com,2020-09-02,Dallas,TX,(484)-307-3957,Regular,0
+152,Customer_152,LastName_3,customer_152.lastname_32@gmail.com,2021-10-08,Philadelphia,PA,(829)-481-6524,Gold,0
+153,Customer_153,LastName_4,customer_153.lastname_43@yahoo.com,2020-08-04,Chicago,IL,(874)-978-9273,Bronze,0
+154,Casey,LastName_5,casey.lastname_54@yahoo.com,2021-03-21,New York,NY,(936)-705-9964,Bronze,0
+155,Morgan,LastName_6,morgan.lastname_65@gmail.com,2020-10-18,Philadelphia,PA,,Gold,0
+156,Morgan,LastName_7,morgan.lastname_76@company.com,2022-07-25,San Jose,CA,(522)-954-4651,Regular,0
+157,Customer_157,LastName_8,customer_157.lastname_87@gmail.com,2022-04-16,Houston,TX,(793)-360-7468,Bronze,0
+158,Customer_158,LastName_9,customer_158.lastname_98@yahoo.com,2020-02-11,Houston,TX,(660)-344-7504,Gold,0
+159,Alex,LastName_10,alex.lastname_109@outlook.com,2021-07-02,Dallas,TX,(216)-613-6016,Gold,0
+160,Casey,LastName_11,casey.lastname_110@yahoo.com,2021-06-30,Dallas,TX,(318)-975-4847,Regular,0
+161,Taylor,LastName_12,taylor.lastname_121@yahoo.com,2021-07-12,Houston,TX,,Regular,0
+162,Customer_162,LastName_13,customer_162.lastname_132@yahoo.com,2022-08-27,San Diego,CA,,Silver,0
+163,Jamie,LastName_14,jamie.lastname_143@outlook.com,2020-06-22,Phoenix,AZ,(625)-265-7986,Silver,0
+164,Taylor,LastName_15,taylor.lastname_154@gmail.com,2022-02-22,Phoenix,AZ,(755)-808-9989,Gold,0
+165,Customer_165,LastName_16,customer_165.lastname_165@yahoo.com,2022-06-13,Los Angeles,CA,(203)-345-2081,Bronze,0
+166,Alex,LastName_17,alex.lastname_176@company.com,2020-12-11,Los Angeles,CA,(998)-647-8623,Gold,0
+167,Casey,LastName_18,casey.lastname_187@outlook.com,2022-03-15,Los Angeles,CA,(294)-461-3890,Regular,0
+168,Casey,LastName_19,casey.lastname_198@outlook.com,2022-01-12,New York,NY,(835)-923-2415,Gold,0
+169,Customer_169,LastName_20,customer_169.lastname_209@outlook.com,2020-06-13,Dallas,TX,(747)-298-8842,Bronze,0
+170,Customer_170,LastName_21,customer_170.lastname_210@company.com,2022-03-22,San Antonio,TX,,Regular,0
+171,Customer_171,LastName_22,customer_171.lastname_221@yahoo.com,2021-09-27,San Diego,CA,(965)-814-2096,Silver,0
+172,Morgan,LastName_23,morgan.lastname_232@company.com,2021-01-31,Philadelphia,PA,(403)-142-1596,Regular,0
+173,Customer_173,LastName_24,customer_173.lastname_243@outlook.com,2020-01-18,Philadelphia,PA,(625)-867-1121,Bronze,0
+174,Alex,LastName_25,alex.lastname_254@yahoo.com,2022-05-13,Los Angeles,CA,(774)-884-2908,Silver,0
+175,Casey,LastName_26,casey.lastname_265@outlook.com,2020-05-02,San Jose,CA,(853)-424-5031,Bronze,0
+176,Morgan,LastName_27,morgan.lastname_276@outlook.com,2020-02-09,Los Angeles,CA,,Bronze,0
+177,Jordan,LastName_28,jordan.lastname_287@outlook.com,2022-04-15,San Antonio,TX,(487)-448-7750,Gold,0
+178,Taylor,LastName_29,taylor.lastname_298@gmail.com,2021-05-25,Phoenix,AZ,(616)-123-1428,Bronze,0
+179,Jamie,LastName_30,jamie.lastname_309@gmail.com,2022-06-09,Chicago,IL,(817)-713-2640,Bronze,0
+180,Customer_180,LastName_31,customer_180.lastname_310@outlook.com,2022-02-25,Philadelphia,PA,(326)-287-4478,Gold,0
+181,Customer_181,LastName_32,customer_181.lastname_321@outlook.com,2020-11-14,Dallas,TX,(281)-931-9993,Bronze,0
+182,Jamie,LastName_33,jamie.lastname_332@outlook.com,2020-04-12,San Antonio,TX,(241)-419-7884,Gold,0
+183,Taylor,LastName_34,taylor.lastname_343@gmail.com,2020-05-20,Los Angeles,CA,,Gold,0
+184,Customer_184,LastName_35,customer_184.lastname_354@company.com,2020-02-13,San Diego,CA,(615)-654-2751,Bronze,0
+185,Customer_185,LastName_36,customer_185.lastname_365@yahoo.com,2020-03-24,Philadelphia,PA,(864)-682-2701,Gold,0
+186,Jamie,LastName_37,jamie.lastname_376@yahoo.com,2020-06-22,Dallas,TX,(617)-105-9568,Bronze,0
+187,Jamie,LastName_38,jamie.lastname_387@yahoo.com,2021-05-19,Dallas,TX,(640)-316-7364,Silver,0
+188,Taylor,LastName_39,taylor.lastname_398@outlook.com,2020-05-19,San Antonio,TX,(621)-692-5713,Bronze,0
+189,Customer_189,LastName_40,customer_189.lastname_409@gmail.com,2021-12-24,San Antonio,TX,(819)-609-1023,Gold,0
+190,Jordan,LastName_41,jordan.lastname_410@outlook.com,2021-12-08,Chicago,IL,(856)-694-2965,Silver,0
+191,Customer_191,LastName_42,customer_191.lastname_421@gmail.com,2020-08-24,Houston,TX,(948)-173-7467,Silver,0
+192,Taylor,LastName_43,taylor.lastname_432@gmail.com,2021-08-11,New York,NY,(934)-213-1225,Regular,0
+193,Customer_193,LastName_44,customer_193.lastname_443@yahoo.com,2021-04-02,Chicago,IL,,Gold,0
+194,Taylor,LastName_45,taylor.lastname_454@company.com,2021-01-22,Dallas,TX,(654)-779-4302,Silver,0
+195,Customer_195,LastName_46,customer_195.lastname_465@outlook.com,2020-07-11,Houston,TX,(480)-547-1801,Bronze,0
+196,Customer_196,LastName_47,customer_196.lastname_476@company.com,2020-06-11,New York,NY,(261)-866-8516,Bronze,0
+197,Customer_197,LastName_48,customer_197.lastname_487@gmail.com,2022-06-21,Phoenix,AZ,,Bronze,0
+198,Customer_198,LastName_49,customer_198.lastname_498@gmail.com,2021-04-29,Dallas,TX,,Regular,0
+199,Jamie,LastName_50,jamie.lastname_509@yahoo.com,2021-04-05,Houston,TX,(482)-959-8812,Regular,0
+200,Customer_200,LastName_1,customer_200.lastname_10@company.com,2020-08-13,San Diego,CA,(217)-899-4840,Regular,0

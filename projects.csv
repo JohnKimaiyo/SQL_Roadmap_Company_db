@@ -1,0 +1,10 @@
+project_id,project_name,start_date,end_date,budget,dept_id,status
+1,Website Redesign,2023-07-16,2023-10-10,339274,3,Active
+2,Mobile App Development,2023-05-18,2023-09-19,411710,2,On Hold
+3,Data Migration,2023-09-22,2024-01-09,60642,2,Planning
+4,CRM Implementation,2023-02-24,2023-05-26,182172,4,Planning
+5,Cloud Migration,2023-10-22,2024-04-04,379000,8,Planning
+6,AI Integration,2023-01-02,2023-03-11,221639,7,Planning
+7,Security Upgrade,2023-06-24,2023-07-24,148236,2,On Hold
+8,ERP System,2023-08-06,2023-11-08,192575,4,Cancelled
+9,E-commerce Platform,2023-10-17,2024-04-08,249188,8,Planning
